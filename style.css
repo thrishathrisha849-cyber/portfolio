@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: black;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 40px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.skills-box {
+  display: flex;
+  gap: 10px;
+}
+
+.skill {
+  background: #f2f2f2;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
