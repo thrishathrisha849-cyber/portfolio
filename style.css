@@ -73,15 +73,16 @@ h1, h2 {
   margin: 5px 0;
 }
 .profile-img {
-  width: 150px;      /* size control */
+  width: 150px;      
   height: 150px;
-  border-radius: 50%; /* round photo */
+  border-radius: 50%;
   object-fit: cover;
   margin-bottom: 15px;
 }
 .project-card img {
   width: 100%;
-  max-width: 400px;   /* இதுதான் main control */
+  max-width: 400px;   
   height: auto;
   border-radius: 8px;
 }
+
